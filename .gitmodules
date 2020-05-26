@@ -3,5 +3,5 @@
 	url = https://github.com/joway/hugo-theme-yinyang.git
 [submodule "public"]
 	path = public
-	url = https://github.com/Yuhuan0207/yuhuan.github.io.git
+	url = https://github.com/Yuhuan0207/Yuhuan0207.github.io.git
 	branch = master

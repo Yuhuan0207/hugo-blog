@@ -2,6 +2,9 @@
 
 Building blog site with hugo
 
+- Start new post
+```hugo new posts/my-first-post.md```
+
 - Start the server on local
 ```hugo server -D```
 
